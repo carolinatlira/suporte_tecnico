@@ -78,7 +78,7 @@ Além de servir como material de estudo, este repositório também faz parte do 
 suporte-tecnico/
 │
 ├── hardware/
-│   ├── bios.md
+│   ├── BIOS.md
 │   ├── memoria-ram.md
 │   ├── processadores.md
 │   └── armazenamento.md
@@ -99,6 +99,11 @@ suporte-tecnico/
 │   ├── powershell.md
 │   └── acesso-remoto.md
 │
+├── certificações/
+|   ├── ITIL5/
+|       ├── resumos_ebook/
+|           ├── capitulo1.md
+|
 └── README.md
 ```
 
@@ -144,7 +149,7 @@ suporte-tecnico/
 - [ ] Linux para Suporte
 - [ ] Microsoft 365
 - [ ] Azure Fundamentals
-- [ ] ITIL Foundation
+- [ ] ITIL Foundation 5
 - [ ] Segurança da Informação
 
 ---
@@ -154,7 +159,7 @@ suporte-tecnico/
 Este repositório também serve como apoio para estudos das seguintes certificações:
 
 - CompTIA A+
-- ITIL Foundation
+- ITIL Foundation 5
 - Microsoft AZ-900 (Azure Fundamentals)
 - Microsoft MS-900 (Microsoft 365 Fundamentals)
 - Microsoft SC-900 (Security, Compliance and Identity Fundamentals)
