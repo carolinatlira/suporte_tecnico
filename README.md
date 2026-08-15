@@ -85,6 +85,7 @@ suporte-tecnico/
 │
 ├── sistemas-operacionais/
 │   ├── windows.md
+│   ├── linux.md
 │   ├── drivers.md
 │   └── gerenciamento-usuarios.md
 │
@@ -103,6 +104,7 @@ suporte-tecnico/
 |   ├── ITIL_Foundation_5/
 |       ├── resumos_ebook/
 |           ├── capitulo1.md
+|           ├── capitulo2.md
 |
 └── README.md
 ```
@@ -139,8 +141,8 @@ suporte-tecnico/
 ## 📈 Roadmap
 
 - [x] BIOS e UEFI
-- [ ] Memória RAM
-- [ ] Processadores
+- [x] Memória RAM
+- [x] Processadores
 - [ ] SSD e HDD
 - [ ] Redes TCP/IP
 - [ ] DNS
