@@ -105,6 +105,8 @@ suporte-tecnico/
 |       ├── resumos_ebook/
 |           ├── capitulo1.md
 |           ├── capitulo2.md
+|           ├── capitulo3.md
+|           ├── capitulo4.md
 |
 └── README.md
 ```
